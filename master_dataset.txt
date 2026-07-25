@@ -1,0 +1,104 @@
+[TECHNICAL - AI]
+EN: The Transformer architecture relies on the self-attention mechanism to weigh the importance of different words in a sequence, allowing the model to understand context far better than previous RNN architectures. By using multi-head attention, the model can simultaneously focus on different aspects of the input.
+ID: Arsitektur Transformer mengandalkan mekanisme self-attention untuk menimbang kepentingan kata-kata yang berbeda dalam sebuah urutan, yang memungkinkan model untuk memahami konteks jauh lebih baik daripada arsitektur RNN sebelumnya. Dengan menggunakan multi-head attention, model dapat secara bersamaan fokus pada berbagai aspek input.
+JA: Transformerアーキテクチャは、シーケンス内の異なる単語の重要性を重み付けするためにセルフアテンションメカニズムに依存しており、これによりモデルは以前のRNNアーキテクチャよりもはるかに優れたコンテキストを理解できるようになります。マルチヘッドアテンションを使用することで、モデルは入力のさまざまな側面に同時に焦点を合わせることができます。
+
+[SCIENCE - SPACE]
+EN: The study of black holes provides profound insights into the nature of spacetime and gravity under extreme conditions. According to general relativity, black holes are regions where gravity is so strong that nothing, not even light, can escape.
+ID: Studi tentang lubang hitam memberikan wawasan mendalam tentang sifat ruang-waktu dan gravitasi di bawah kondisi ekstrem. Menurut relativitas umum, lubang hitam adalah wilayah di mana gravitasi begitu kuat sehingga tidak ada apa pun, bahkan cahaya, yang bisa lolos.
+JA: ブラックホールの研究は、極限状態における時空と重力の性質について深い洞察を提供します。一般相対性理論によれば、ブラックホールは重力が非常に強く、光さえも逃げることができない領域です。
+
+[PHILOSOPHY - LANGUAGE]
+EN: Language is not merely a tool for communication but the very framework through which we perceive and structure our reality. The way we name things and describe events shapes our understanding of the world.
+ID: Bahasa bukan sekadar alat untuk komunikasi, melainkan kerangka itu sendiri yang melaluinya kita memandang dan menyusun realitas kita. Cara kita menamai benda dan mendeskripsikan peristiwa membentuk pemahaman kita tentang dunia.
+JA: 言語は単なるコミュニケーションのツールではなく、私たちが現実を知覚し、構造化するためのフレームワークそのものです。私たちが物に名前を付け、出来事を説明する方法は、世界の理解を形作ります。
+
+[HISTORY - CIVILIZATION]
+EN: The transition from nomadic hunter-gatherer societies to settled agricultural communities marked the beginning of human civilization. This shift allowed for the development of specialized roles, leading to the creation of cities, governments, and complex writing systems.
+ID: Transisi dari masyarakat pemburu-pengumpul nomaden ke komunitas pertanian menetap menandai dimulainya peradaban manusia. Pergeseran ini memungkinkan pengembangan peran khusus, yang mengarah pada penciptaan kota, pemerintahan, dan sistem penulisan yang kompleks.
+JA: 遊牧狩猟採集社会から定住型農業社会への移行は、人類文明の始まりを告げました。この変化により専門的な役割の開発が可能になり、都市、政府、複雑な記述体系の創出につながりました。
+
+[ENVIRONMENT - SUSTAINABILITY]
+EN: Climate change poses an existential challenge to ecosystems and human societies worldwide. Sustainable development requires a holistic approach, integrating renewable energy, responsible resource management, and international cooperation to mitigate environmental impact.
+ID: Perubahan iklim menimbulkan tantangan eksistensial bagi ekosistem dan masyarakat manusia di seluruh dunia. Pembangunan berkelanjutan memerlukan pendekatan holistik, mengintegrasikan energi terbarukan, pengelolaan sumber daya yang bertanggung jawab, dan kerja sama internasional untuk mengurangi dampak lingkungan.
+JA: 気候変動は、世界中の生態系と人間社会にとって存続に関わる課題となっています。持続可能な開発には、環境への影響を緩和するために、再生可能エネルギー、責任ある資源管理、国際協力を統合する全体論的なアプローチが必要です。
+
+[LOGIC - REASONING]
+EN: If all humans are mortal, and Socrates is a human, then Socrates is mortal. This is a classic example of a syllogism in deductive reasoning, where the conclusion must follow necessarily from the premises.
+ID: Jika semua manusia fana, dan Socrates adalah manusia, maka Socrates fana. Ini adalah contoh klasik silogisme dalam penalaran deduktif, di mana kesimpulan harus mengikuti premis secara niscaya.
+JA: すべての人間が死ぬ存在であり、ソクラテスが人間であるならば、ソクラテスは死ぬ存在です。これは演繹的推論における三段論法の古典的な例であり、結論は前提から必然的に導き出されなければなりません。
+
+[MATH - CALCULUS]
+EN: The derivative of a function represents the instantaneous rate of change of the function with respect to one of its variables. It is fundamental in understanding motion and growth.
+ID: Turunan dari suatu fungsi merepresentasikan laju perubahan sesaat dari fungsi tersebut terhadap salah satu variabelnya. Ini fundamental dalam memahami gerak dan pertumbuhan.
+JA: 関数の微分は、その関数の変数の1つに対する瞬時変化率を表します。これは運動や成長を理解する上で基本となります。
+
+[PROGRAMMING - PHP EXPLANATION]
+EN: PHP is a server-side scripting language designed for web development. The following code snippet demonstrates a simple function to calculate the sum of an array. The 'foreach' loop iterates through each element, adding it to the '$sum' variable.
+ID: PHP adalah bahasa skrip sisi-server yang dirancang untuk pengembangan web. Potongan kode berikut mendemonstrasikan fungsi sederhana untuk menghitung jumlah dari sebuah array. Perulangan 'foreach' mengiterasi setiap elemen, menambahkannya ke variabel '$sum'.
+JA: PHPは、Web開発用に設計されたサーバーサイドスクリプト言語です。以下のコードスニペットは、配列の合計を計算する単純な関数を示しています。'foreach'ループは各要素を反復処理し、'$sum'変数に追加します。
+
+[PROGRAMMING - PHP EXAMPLE]
+<?php
+function calculateSum(array $numbers): int {
+    $sum = 0;
+    foreach ($numbers as $number) {
+        $sum += $number;
+    }
+    return $sum;
+}
+echo calculateSum([1, 2, 3, 4, 5]); // Output: 15
+?>
+
+[ECONOMY - FINANCE]
+EN: Inflation reduces the purchasing power of money over time. Central banks adjust interest rates to manage economic growth and price stability.
+ID: Inflasi mengurangi daya beli uang seiring waktu. Bank sentral menyesuaikan suku bunga untuk mengelola pertumbuhan ekonomi dan stabilitas harga.
+JA: インフレは時間の経過とともに通貨の購買力を低下させます。中央銀行は金利を調整して、経済成長と物価の安定を管理します。
+
+[LAW - ETHICS]
+EN: The principle of justice requires that similar cases be treated similarly under the law. Ethical frameworks help determine actions based on potential outcomes or inherent duties.
+ID: Prinsip keadilan mengharuskan kasus yang serupa diperlakukan secara serupa di bawah hukum. Kerangka etika membantu menentukan tindakan berdasarkan potensi hasil atau kewajiban yang melekat.
+JA: 正義の原則は、同様の事件は法律の下で同様に扱われることを要求します。倫理的枠組みは、潜在的な結果や固有の義務に基づいて行動を決定するのに役立ちます。
+
+[HEALTH - BIOLOGY]
+EN: Vaccines work by stimulating the immune system to recognize and fight specific pathogens without causing the actual disease.
+ID: Vaksin bekerja dengan merangsang sistem kekebalan tubuh untuk mengenali dan melawan patogen tertentu tanpa menyebabkan penyakit itu sendiri.
+JA: ワクチンは、実際の病気を引き起こすことなく、特定の病原体を認識して戦うように免疫システムを刺激することで機能します。
+
+[PROGRAMMING - PHP OOP EXPLANATION]
+EN: Object-Oriented Programming (OOP) in PHP uses classes and objects to structure code. Classes act as blueprints, while objects are instances of those classes. This promotes code reusability and maintainability.
+ID: Object-Oriented Programming (OOP) dalam PHP menggunakan kelas dan objek untuk menyusun kode. Kelas bertindak sebagai cetak biru, sementara objek adalah instansi dari kelas tersebut. Ini mempromosikan penggunaan kembali kode dan kemudahan pemeliharaan.
+JA: PHPのオブジェクト指向プログラミング（OOP）は、クラスとオブジェクトを使用してコードを構造化します。クラスは設計図として機能し、オブジェクトはそのクラスのインスタンスです。これにより、コードの再利用性と保守性が向上します。
+
+[CODE - PHP OOP EXAMPLE]
+<?php
+class User {
+    public $name;
+    public function __construct($name) {
+        $this->name = $name;
+    }
+    public function greet() {
+        return "Hello, my name is " . $this->name;
+    }
+}
+$user = new User("Gemini");
+echo $user->greet(); // Output: Hello, my name is Gemini
+?>
+
+[PROGRAMMING - PHP DATABASE EXPLANATION]
+EN: Interacting with databases is a core feature of PHP. Using PDO (PHP Data Objects), you can safely execute SQL queries, which prevents SQL injection attacks.
+ID: Berinteraksi dengan basis data adalah fitur inti PHP. Menggunakan PDO (PHP Data Objects), Anda dapat mengeksekusi kueri SQL dengan aman, yang mencegah serangan injeksi SQL.
+JA: データベースとの対話は、PHPのコア機能です。PDO（PHP Data Objects）を使用すると、SQLクエリを安全に実行でき、SQLインジェクション攻撃を防ぐことができます。
+
+[CODE - PHP DATABASE EXAMPLE]
+<?php
+// Example of a secure database connection and query using PDO
+try {
+    $pdo = new PDO('mysql:host=localhost;dbname=test', 'username', 'password');
+    $stmt = $pdo->prepare('SELECT * FROM users WHERE id = :id');
+    $stmt->execute(['id' => 1]);
+    $user = $stmt->fetch();
+} catch (PDOException $e) {
+    echo "Connection failed: " . $e->getMessage();
+}
+?>
